@@ -1,0 +1,22 @@
+h1 {
+  margin-bottom: 30px;
+}
+.name {
+  width: 25%;
+}
+.short-name {
+  width: 10%
+}
+.description {
+  width: 50%;
+}
+.price {
+  width: 15%;
+}
+button {
+  position: relative;
+  top: 20px;
+  left: 80px;
+  color:green;
+  padding: 5px;
+}
